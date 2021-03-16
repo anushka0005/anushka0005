@@ -5,4 +5,4 @@
 
 -🌱 I’m currently learning github
 
--:sparkles: Pronouns: she/her
+-:sparkles: Pronouns: she/her 
