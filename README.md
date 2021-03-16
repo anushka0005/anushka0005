@@ -5,5 +5,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on learning data science
-- 🌱 I’m currently learning github
+###- 🔭 I’m currently working on learning data science
+###- 🌱 I’m currently learning github
