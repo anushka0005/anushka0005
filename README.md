@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
--🔭 I’m currently working on learning data science
+-🔭 I’m currently a third year student at Vellore Institute of Technology
 
--🌱 I’m currently learning github
+-🌱 I’m currently looking to contribute to more open source projects
 
--:sparkles: Pronouns: she/her 
+
